@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: my_package
+Version: 0.1
+Summary: Customer segmentation package
+Author: Ankit Gochhayat
+Author-email: ankit.gochhayat2004@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: dill
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
